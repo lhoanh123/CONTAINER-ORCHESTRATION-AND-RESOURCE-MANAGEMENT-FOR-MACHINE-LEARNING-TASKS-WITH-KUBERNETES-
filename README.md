@@ -8,6 +8,10 @@
 
 Dự án này nghiên cứu và triển khai việc quản lý container và tài nguyên trong môi trường Kubernetes cho các tác vụ học máy (machine learning). Mục tiêu chính là tối ưu hóa quá trình triển khai, mở rộng, và quản lý tài nguyên cho các ứng dụng học máy trong môi trường container hóa, sử dụng Kubernetes làm công cụ quản lý container và tài nguyên.
 
+### Link Source Code
+- [GitHub Repository](https://github.com/lhoanh123/rke2_cluster)
+
+
 ### Các Thành Phần Chính Của Dự Án:
 - **Kubernetes**: Hệ thống điều phối container, giúp tự động hóa việc triển khai, quản lý và mở rộng các ứng dụng container.
 - **Rancher**: Công cụ quản lý Kubernetes với giao diện người dùng dễ sử dụng và tích hợp nhiều tính năng cho quản lý cluster.
