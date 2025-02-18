@@ -32,6 +32,3 @@ Dự án này nghiên cứu và triển khai việc quản lý container và tà
 6. **Quản lý lưu trữ phân tán** với Longhorn.
 7. **Tự động hóa triển khai và cấu hình** sử dụng Ansible, giúp giảm thiểu công sức thủ công và tăng tính nhất quán trong các môi trường khác nhau.
 
-## Thành Viên Nhóm
-- **LÊ HOÀNG OANH** - 21521253
-- **NGUYỄN BÌNH KHẢI** - 21522184
